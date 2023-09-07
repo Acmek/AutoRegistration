@@ -1,0 +1,18 @@
+/Registration Time
+year (eg. "2023" for xx/xx/2023)
+month (eg. "6" for June or 06/xx/xxxx)
+day (eg. "24" for xx/24/xxxx)
+hour (eg. "9" for 9:00am / "13" for 1:00pm)
+minute (eg. "32" for xx:32)
+second (eg. "4" for xx:xx:04)
+
+/Course Name or FIG
+class or FIG code
+
+/Course Name
+class code
+class code
+
+/Course Name
+class code
+class code
